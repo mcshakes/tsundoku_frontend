@@ -1,11 +1,12 @@
 import React, { useState, useEffect, useContext } from "react";
 
-const Home = () => {
-    
+const ReadingList = () => {
+
+    return (
         <div className="reading-list">
 
         </div>
     )
 }
 
-export default Home;
+export default ReadingList;
